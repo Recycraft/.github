@@ -9,7 +9,7 @@ Main feature:
 1. Easy Scraps Classification Detection with your camera
 2. Easy Scraps Type Classification with your camera
 3. Gain insight into the scraps
-4. Find various handicrafts from related scraps
+4. Get crafting recommender from related scraps
 5. Get easy steps for handicraft making
 6. Upcoming many features on the next release
 
