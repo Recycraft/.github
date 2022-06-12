@@ -6,8 +6,8 @@ Waste is one of the most complex problems in many countries, including Indonesia
 
 ## Main Features
 Main feature:
-1. Scraps Classification Detection with your camera
-2. Scraps Type Classification with your camera
+1. Easy Scraps Classification Detection with your camera
+2. Easy Scraps Type Classification with your camera
 3. Gain insight into the scraps
 4. Find various handicrafts from related scraps
 5. Get easy steps for handicraft making
