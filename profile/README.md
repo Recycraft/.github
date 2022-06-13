@@ -6,6 +6,9 @@ Waste is one of the most complex problems in many countries, including Indonesia
 
 ## Main Features
 Main feature:
+<h1 align="center">
+  <img align="center" src="https://github.com/Recycraft/.github/blob/main/assets/background.png"  width="200"></img>
+<br>
 1. Easy Scraps Classification Detection with your camera
 2. Easy Scraps Type Classification with your camera
 3. Gain insight into the scraps
