@@ -6,16 +6,16 @@ Waste is one of the most complex problems in many countries, including Indonesia
 
 ## Main Features
 Main feature:
-<h1 align="center">
-  <img align="center" src="https://github.com/Recycraft/.github/blob/main/assets/background.png"></img>
-<br>
-
 1. Easy Scraps Classification Detection with your camera
 2. Easy Scraps Type Classification with your camera
 3. Gain insight into the scraps
 4. Get crafting recommender from related scraps
 5. Get easy steps for handicraft making
 6. Upcoming many features on the next release
+
+<h1 align="center">
+  <img align="center" src="https://github.com/Recycraft/.github/blob/main/assets/background.png"></img>
+</h1>
 
 ## Team ID : C22-PS285 
 ## Our Teams :
